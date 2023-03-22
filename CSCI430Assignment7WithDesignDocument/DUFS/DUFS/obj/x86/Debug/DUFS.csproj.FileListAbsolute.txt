@@ -1,0 +1,22 @@
+d:\Users\bkowalczk\documents\visual studio 2010\projects\DUFS\DUFS\bin\Debug\DUFS.exe
+d:\Users\bkowalczk\documents\visual studio 2010\projects\DUFS\DUFS\bin\Debug\DUFS.pdb
+d:\Users\bkowalczk\documents\visual studio 2010\projects\DUFS\DUFS\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\bkowalczk\documents\visual studio 2010\projects\DUFS\DUFS\obj\x86\Debug\DUFS.exe
+d:\Users\bkowalczk\documents\visual studio 2010\projects\DUFS\DUFS\obj\x86\Debug\DUFS.pdb
+C:\Users\bkowalczk\Desktop\DUFS\DUFS\bin\Debug\DUFS.exe
+C:\Users\bkowalczk\Desktop\DUFS\DUFS\bin\Debug\DUFS.pdb
+C:\Users\bkowalczk\Desktop\DUFS\DUFS\obj\x86\Debug\DUFS.csprojResolveAssemblyReference.cache
+C:\Users\bkowalczk\Desktop\DUFS\DUFS\obj\x86\Debug\DUFS.exe
+C:\Users\bkowalczk\Desktop\DUFS\DUFS\obj\x86\Debug\DUFS.pdb
+C:\Users\troll\Downloads\DUFS\DUFS\DUFS\bin\Debug\DUFS.exe
+C:\Users\troll\Downloads\DUFS\DUFS\DUFS\bin\Debug\DUFS.pdb
+C:\Users\troll\Downloads\DUFS\DUFS\DUFS\obj\x86\Debug\DUFS.csproj.AssemblyReference.cache
+C:\Users\troll\Downloads\DUFS\DUFS\DUFS\obj\x86\Debug\DUFS.csproj.CoreCompileInputs.cache
+C:\Users\troll\Downloads\DUFS\DUFS\DUFS\obj\x86\Debug\DUFS.exe
+C:\Users\troll\Downloads\DUFS\DUFS\DUFS\obj\x86\Debug\DUFS.pdb
+C:\Users\Lucas Furlong\Downloads\DUFS\DUFS\DUFS\bin\Debug\DUFS.exe
+C:\Users\Lucas Furlong\Downloads\DUFS\DUFS\DUFS\bin\Debug\DUFS.pdb
+C:\Users\Lucas Furlong\Downloads\DUFS\DUFS\DUFS\obj\x86\Debug\DUFS.csprojAssemblyReference.cache
+C:\Users\Lucas Furlong\Downloads\DUFS\DUFS\DUFS\obj\x86\Debug\DUFS.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Furlong\Downloads\DUFS\DUFS\DUFS\obj\x86\Debug\DUFS.exe
+C:\Users\Lucas Furlong\Downloads\DUFS\DUFS\DUFS\obj\x86\Debug\DUFS.pdb
